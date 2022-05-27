@@ -1,7 +1,0 @@
-H:\Informatique\Démineur\Démineur2017\Démineur2017\bin\Debug\Démineur2017.exe.config
-H:\Informatique\Démineur\Démineur2017\Démineur2017\bin\Debug\Démineur2017.exe
-H:\Informatique\Démineur\Démineur2017\Démineur2017\bin\Debug\Démineur2017.pdb
-H:\Informatique\Démineur\Démineur2017\Démineur2017\obj\Debug\Démineur2017.csprojAssemblyReference.cache
-H:\Informatique\Démineur\Démineur2017\Démineur2017\obj\Debug\Démineur2017.csproj.CoreCompileInputs.cache
-H:\Informatique\Démineur\Démineur2017\Démineur2017\obj\Debug\Démineur2017.exe
-H:\Informatique\Démineur\Démineur2017\Démineur2017\obj\Debug\Démineur2017.pdb
